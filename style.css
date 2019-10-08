@@ -8,3 +8,13 @@
   box-shadow: none;
   border: none;
 }
+
+.footer-background {
+  height: 200px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.padded.item {
+  margin-top: 20px;
+}
